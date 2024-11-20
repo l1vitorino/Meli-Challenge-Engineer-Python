@@ -1,3 +1,4 @@
+import pandas as pd
 from extract import MercadoLibreScraper
 
 Scraper = MercadoLibreScraper('MLB', 'ultrabook+corei7+16gb')
