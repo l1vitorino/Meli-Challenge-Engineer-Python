@@ -1,0 +1,301 @@
+id,condition,title,buying_mode,price,original_price,sale_amount,sale_type,available_quantity,accepts_mercadopago,use_thumbnail_id,health,seller_address.search_location.city.name,seller_address.search_location.state.name
+MLB4412165658,new,Tênis Masculino Flyer Flex Bdp Puma,buy_it_now,179.99,249.99,179.99,promotion,1,True,True,0.8,Cajamar,São Paulo
+MLB4908604016,new,Tênis Masculino adidas Runfalcon 5,buy_it_now,279.99,399.99,279.99,promotion,250,True,True,0.88,Cajamar,São Paulo
+MLB4977281990,new,Tênis Masculino Volcan 2 Novo Olympikus,buy_it_now,148.99,199.99,148.99,promotion,250,True,True,0.88,Cajamar,São Paulo
+MLB3910276189,new,Tênis Masculino Esportivo Leve Macio Performance E Conforto,buy_it_now,79.95,159.9,79.95,promotion,5000,True,True,1.0,Franca,São Paulo
+MLB3905380549,new,Tênis Under Armour Charged Great Color Modgray/beta/black - Adulto 41 Br,buy_it_now,211.85,324.99,211.85,promotion,1,True,True,,São João da Boa Vista,São Paulo
+MLB3746608021,new,Tênis Corrida Galaxy 7 adidas,buy_it_now,211.19,399.99,211.19,promotion,500,True,True,0.9,Extrema,Minas Gerais
+MLB3618871821,new,Sapatilha Fiber Training,buy_it_now,169.9,186.71,169.9,promotion,250,True,True,1.0,Campo Bom,Rio Grande do Sul
+MLB5181580156,new,Kit Tenis Sapatenis Casual Esporte + Relogio Digital Barato,buy_it_now,75.73,78.89,75.73,promotion,500,True,True,0.81,Franca,São Paulo
+MLB3206266730,new,Kit 3 Faixas Cabelo Suor Headband Corrida Esporte Testa Yoga,buy_it_now,28.86,39.0,28.86,promotion,250,True,True,0.85,Rio de Janeiro Zona Oeste,Rio de Janeiro
+MLB5181580550,new,Kit Tenis Sapatenis Casual Esporte + Relogio Digital Barato,buy_it_now,90.04,94.78,90.04,promotion,500,True,True,0.9,Franca,São Paulo
+MLB4174222978,new,Munhequeira Algodão Color Grande Wilson Tênis Unissex Cor Preto/ Branco,buy_it_now,47.73,50.25,47.73,promotion,1,True,True,,Peruíbe,São Paulo
+MLB5137662936,new,Tênis Feminino Esportivo Academia Corrida Pink E Preto,buy_it_now,89.9,,89.9,standard,500,True,True,1.0,Franca,São Paulo
+MLB3911776541,new,Tênis Olympikus Corre Max Unissex Corrida Confortável,buy_it_now,499.99,,499.99,standard,50,True,True,1.0,Novo Hamburgo,Rio Grande do Sul
+MLB1464164872,new,Tênis Masculino Olymp Olimp Space Caminhada Barato Promoção,buy_it_now,71.01,78.9,71.01,promotion,500,True,True,0.66,Nova Serrana,Minas Gerais
+MLB3450859321,new,Tênis Mizuno Wave Vitality 4 Color Preto - Adulto 41 Br,buy_it_now,229.99,,229.99,standard,500,True,True,,Jundiaí,São Paulo
+MLB3590019683,new,Tênis Esportivo Masculino Feminino Academia Novo + Relógio,buy_it_now,56.97,76.99,56.97,promotion,500,True,True,0.77,Perdigão,Minas Gerais
+MLB3815015649,new,Tênis Skechers Gorun Fast Color Marinho Escuro - Adulto 12 Us,buy_it_now,319.9,,319.9,standard,1,True,True,,São Paulo Zona Sul,São Paulo
+MLB4498923378,new,Óculos Esportivo Ciclista Beach Tennis Proteção Uv Maratona Cor Da Armação Preta Cor Da Lente Incolor Transparente,buy_it_now,22.68,28.0,22.68,promotion,1,True,True,,Ribeirão Preto,São Paulo
+MLB5046542234,new,Tenis Casual Knu Skool Black White Preto E Branco Lançamento,buy_it_now,160.74,267.9,160.74,promotion,500,True,True,0.9,São Caetano do Sul,São Paulo
+MLB3905507439,new,Tênis Fila Racer Comet Color Preto-coronet-blue - Adulto 41 Br,buy_it_now,259.99,362.49,259.99,promotion,100,True,True,,São João da Boa Vista,São Paulo
+MLB5181158374,new,Tênis De Corrida Feminino Mizuno Atlantis 101064064,buy_it_now,409.5,,409.5,standard,1,True,True,1.0,Maringá,Paraná
+MLB3536977858,new,Tênis Rainha Vl 2500 Futsal Vôlei Academia Capoeira Corrida,buy_it_now,78.9,,78.9,standard,5000,True,True,0.63,Nova Serrana,Minas Gerais
+MLB3220791484,new,Kit Combo 2 Tenis Masculino Academia Caminhada Corrida Top,buy_it_now,147.81,169.9,147.81,promotion,250,True,True,0.88,Nova Serrana,Minas Gerais
+MLB5182028012,new,Tênis Fitness Feminino Olimp Caminhada Ortopédico Academia,buy_it_now,62.15,113.0,62.15,promotion,100,True,True,0.81,Franca,São Paulo
+MLB4721165186,new,Tênis Masculino Prospect Fly Academia Esporte Corrida Leve,buy_it_now,44.73,69.9,44.73,promotion,250,True,True,0.77,Franca,São Paulo
+MLB3735490359,new,Tênis Feminino Duramo Rc adidas,buy_it_now,292.39,399.99,292.39,standard,1,True,True,,Cajamar,São Paulo
+MLB3531357853,new,Tênis Olympikus Eros Color Branco - Adulto 42 Br,buy_it_now,169.99,249.99,169.99,promotion,1,True,True,,São João da Boa Vista,São Paulo
+MLB5173465228,new,Tênis Under Armour Tribase Cross Se Color Preto/azul - Adulto 40 Br,buy_it_now,447.85,687.49,447.85,promotion,1,True,True,,São João da Boa Vista,São Paulo
+MLB5181804294,new,Tênis De Corrida Masculino Mizuno Wave Vitality 6,buy_it_now,439.99,,439.99,standard,1,True,True,0.9,Carapicuíba,São Paulo
+MLB1870703755,new,Kit Combo 2 Tenis Feminino Academia Caminhada Corrida Black,buy_it_now,147.81,169.9,147.81,promotion,500,True,True,0.88,Nova Serrana,Minas Gerais
+MLB4611070644,new,Sapatilha Aquática Unissex Rio Pesca Praia Neoprene Flexível,buy_it_now,56.05,78.9,56.05,promotion,200,True,True,0.66,Franca,São Paulo
+MLB3338422755,new,Tênis Feminino Academia Caminhada Leve Promoção Menina ,buy_it_now,61.9,69.9,61.9,promotion,500,True,True,0.7,Nova Serrana,Minas Gerais
+MLB4307012986,new,Combo Kit 2 Tenis Feminino Caminhada Treino Barato+relogio,buy_it_now,130.51,228.97,130.51,promotion,200,True,True,0.88,Franca,São Paulo
+MLB5055616630,new,Tênis Vans Ultrarange V3 Color Preto - Adulto 41 Br,buy_it_now,163.94,399.86,163.94,promotion,1,True,True,,Nova Serrana,Minas Gerais
+MLB2744966615,new,Tenis Masculino Esportivo Caminhada Academia Corrida Malhar.,buy_it_now,54.15,78.99,54.15,promotion,200,True,True,0.77,Nova Serrana,Minas Gerais
+MLB2169368641,new,Camiseta Dry Fit Baby Look Feminina 100% Poliamida,buy_it_now,36.9,,36.9,standard,150,True,True,0.71,Londrina,Paraná
+MLB5099324098,new,Tênis Olympikus Masculino Resistente Corrida Macio,buy_it_now,299.25,349.99,299.25,promotion,200,True,True,0.77,Penápolis,São Paulo
+MLB5181415656,new,Tênis adidas Latin Run 2.0 U Leve Macio Reforçado Duravel,buy_it_now,349.99,,349.99,standard,1,True,True,0.81,Penápolis,São Paulo
+MLB5176345232,new,Kit 2 Testeiras Nke Faixa De Cabeça Tiara Em Microfibra Lisa,buy_it_now,29.9,,29.9,standard,500,True,True,1.0,Juiz de Fora,Minas Gerais
+MLB5144891372,new,Munhequeira Ziper Pulseira Com Bolso Corrida Porta Chave,buy_it_now,26.34,,26.34,standard,1,True,True,0.85,Florianópolis,Santa Catarina
+MLB3725877709,new,Tênis Galaxy 6 adidas,buy_it_now,211.19,399.99,211.19,promotion,500,True,True,0.9,Extrema,Minas Gerais
+MLB3910431103,new,Tênis Olympikus Volcan 2 Caminhada Treino Corrida Academia,buy_it_now,180.04,189.52,180.04,promotion,1,True,True,0.81,Cianorte,Paraná
+MLB1696827744,new,Tenis Meia Calce Facil Para Caminhada Exercícios Feminino,buy_it_now,47.49,49.99,47.49,promotion,1,True,True,0.75,Birigüi,São Paulo
+MLB3804956541,new,Tênis De Corrida Under Armour Charged Hit Se,buy_it_now,289.99,424.99,289.99,promotion,250,True,True,0.7,São João da Boa Vista,São Paulo
+MLB4324837404,new,Tênis Olympus Masculino Feminino Academia Caminhada Levinho,buy_it_now,68.72,78.99,68.72,promotion,250,True,True,0.66,Nova Serrana,Minas Gerais
+MLB1473971415,new,Tênis Feminino Esportivo Byllbow Academia E Corrida,buy_it_now,69.21,76.9,69.21,promotion,500,True,True,0.77,,Minas Gerais
+MLB4846818376,new,2 Kits Cadarço Silicone Elástico 12pçs Tênis Fitness Corrida Cor Colorido,buy_it_now,12.55,,12.55,standard,1,True,True,,Praia Grande,São Paulo
+MLB5033229314,new,Tênis Fila Masculino Adr Urbano Original Confortável,buy_it_now,241.9,346.99,241.9,promotion,100,True,True,0.88,São João da Boa Vista,São Paulo
+MLB3377731767,new,Tênis Esportivo It Shoes Amortecedor Gel Masculino,buy_it_now,101.94,169.9,101.94,promotion,500,True,True,0.88,Nova Serrana,Minas Gerais
+MLB5039353878,new,Tênis Under Armour Charged Wing Se Color Preto/branco - Adulto 39 Br,buy_it_now,207.99,399.99,207.99,promotion,1,True,True,,Penápolis,São Paulo
+MLB4580183696,new,Tênis Esportivo Ascension Conforto Masculino E Feminino,buy_it_now,63.9,78.9,63.9,promotion,150,True,True,0.88,Franca,São Paulo
+MLB4066702866,new,Tenis Esporte Academia Corrida Caminhada Confortável Leve,buy_it_now,54.9,78.9,54.9,promotion,50,True,True,0.77,Franca,São Paulo
+MLB3801121949,new,Kit 2 Pares Tênis Masculino Para Academia Esportivo +relógio,buy_it_now,135.9,,135.9,standard,5000,True,True,0.9,Franca,São Paulo
+MLB3265010189,new,Tênis Número Especial Esportivo Corrida E Academia 44-48,buy_it_now,108.73,159.9,108.73,promotion,50,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3636111249,new,Short Duplo Forro Futebol Beach Volei Tenis Praia Corrida,buy_it_now,45.07,93.9,45.07,promotion,1,True,True,0.71,Osasco,São Paulo
+MLB2647500391,new,Tênis Feminino Casual Kit 2 Pares Caminhada Academia,buy_it_now,132.9,149.9,132.9,promotion,500,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3677914727,new,Tênis Cool Ride Color Mizuno,buy_it_now,262.42,349.9,262.42,promotion,1,True,True,,Goiânia,Goiás
+MLB2223812758,new,Tênis Masculino Corrida Academia Caminhada Lynd- Grid 321,buy_it_now,189.9,199.9,189.9,promotion,250,True,True,0.77,Nova Serrana,Minas Gerais
+MLB5020666474,new,Tênis Mizuno Goya 2 Masculino- Preto-preto,buy_it_now,237.93,349.9,237.93,promotion,50,True,True,0.9,Ribeirão Preto,São Paulo
+MLB2982178649,new,Kit 3 Faixas Headband Anti Suor Cabelo Testa Esporte Corrida,buy_it_now,28.79,47.98,28.79,promotion,1,True,True,0.85,Santos,São Paulo
+MLB5069171980,new,Tênis Asics Raiden 4 Masculino Adulto Original,buy_it_now,252.94,459.9,252.94,promotion,50,True,True,1.0,,
+MLB3106886681,new,Kit 3 Pares Tênis Esportivo Masculino Evoltenn Style Corrida,buy_it_now,138.7,188.9,138.7,promotion,100,True,True,0.88,Franca,São Paulo
+MLB3837997939,new,Tênis Fila Racer Speedzone Corrida Confortável - Original,buy_it_now,579.99,749.99,579.99,promotion,1,True,True,0.88,São João da Boa Vista,São Paulo
+MLB3905389839,new,Tênis Fila Float Maxxi 2 Pro Color Esmeralda - Adulto 38 Br,buy_it_now,683.99,899.99,683.99,promotion,1,True,True,,Santo André,São Paulo
+MLB3519145412,new,Tenis Unissex Olympikus Eros Casual Social Urbano - Original,buy_it_now,169.9,326.23,169.9,promotion,1,True,True,0.8,Embu das Artes,São Paulo
+MLB3451989961,new,Tênis Olympikus Treino Dynamic Cor Azul - Adulto 42 Br,buy_it_now,193.19,279.99,193.19,standard,1,True,True,,Cajamar,São Paulo
+MLB3910497461,new,Tênis Esportivo Feminino Confort Super Leve,buy_it_now,108.46,349.9,108.46,promotion,100,True,True,0.9,,Minas Gerais
+MLB3622221063,new,Tênis Recovery Masculino Fila,buy_it_now,240.02,399.99,240.02,promotion,1,True,True,,Sorocaba,São Paulo
+MLB5107990538,new,Tênis adidas Duramo Speed Color Core Black/zero Metalic/aurora Black - Adulto 36 Br,buy_it_now,395.99,599.99,395.99,promotion,1,True,True,,Penápolis,São Paulo
+MLB5166640948,new,Tênis Esportivo Academia Confortável Versátil Chumbo Corrida,buy_it_now,89.9,,89.9,standard,500,True,True,1.0,Franca,São Paulo
+MLB2744814291,new,Tenis Feminino Esportivo Academia Caminhada Corrida Barato.,buy_it_now,55.1,78.99,55.1,promotion,200,True,True,0.66,Nova Serrana,Minas Gerais
+MLB3841453221,new,Tênis Olympikus Casual Mood Color Preto - Adulto 43 Br,buy_it_now,138.16,191.9,138.16,promotion,1,True,True,,Presidente Prudente,São Paulo
+MLB3951307628,new,Tênis Academia Caminhada Corrida Confortável Leve Pra Malhar,buy_it_now,64.9,78.0,64.9,promotion,50,True,True,0.77,Franca,São Paulo
+MLB4602851734,new,Tênis Vili All Journey Color Branco/uva - Adulto 34 Br,buy_it_now,105.31,,105.31,standard,1,True,True,,Pará de Minas,Minas Gerais
+MLB5137157720,new,Tênis Mizuno Atlantis - Masculino,buy_it_now,289.9,,289.9,standard,1,True,True,1.0,Santa Cruz do Sul,Rio Grande do Sul
+MLB3111699197,new,Faixa De Cabelo Headband Elástica Snugg Proteção Uv50,buy_it_now,21.91,24.9,21.91,promotion,1,True,True,0.85,São Paulo Zona Leste,São Paulo
+MLB3456110897,new,Kit 3 Tênis Masculino Prospect Speed Academia Leve + Relógio,buy_it_now,138.53,219.9,138.53,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB5166832554,new,Tênis Olympikus Apolis Feminino Esporte Corrida Caminhada,buy_it_now,169.98,298.21,169.98,promotion,150,True,True,0.88,São Paulo Zona Oeste,São Paulo
+MLB3598537429,new,Tênis Flutua Feminino Olympikus,buy_it_now,120.99,189.99,120.99,promotion,50,True,True,,Cajamar,São Paulo
+MLB4567628890,new,Camisas Dry Fit Masculina Tamanho Especiais | Plus Size,buy_it_now,42.34,79.9,42.34,promotion,1,True,True,0.71,Divinópolis,Minas Gerais
+MLB4616703034,new,Tenis Feminino Esportivo + Relogio Academia Corrida Treino ,buy_it_now,62.4,114.4,62.4,promotion,200,True,True,0.66,Perdigão,Minas Gerais
+MLB3660446325,new,Tênis Masculino Olympikus Rayo Caminhada Academia Original,buy_it_now,179.55,249.99,179.55,promotion,1,True,True,0.88,São Paulo Zona Oeste,São Paulo
+MLB3277268101,new,Tênis Ortopédico Masculino Feminino Asc Original Calce Fácil,buy_it_now,99.42,,99.42,standard,50,True,True,1.0,Franca,São Paulo
+MLB2978168735,new,Tenis  Masculino Promoção  Lançamento Original  Confortável.,buy_it_now,59.41,69.9,59.41,promotion,50,True,True,0.88,Perdigão,Minas Gerais
+MLB2919294110,new,Tenis Feminino Casual Nyc Shoes Masculino Moda Adulto,buy_it_now,69.9,89.9,69.9,promotion,500,True,True,0.77,,Minas Gerais
+MLB4634895328,new,Tênis Feminino Ultra Conforto Modare Ortopédico Original,buy_it_now,99.99,159.99,99.99,promotion,150,True,True,0.77,Cerquilho,São Paulo
+MLB5033899508,new,Tênis Fila Adr Masculino Treino E Casual Lifestyle Original,buy_it_now,254.6,359.99,254.6,promotion,1,True,True,0.88,Santo André,São Paulo
+MLB4608191202,new,Tênis Masculino Olympikus Treino Volcan Cor Preto/chumbo - Adulto 40 Br,buy_it_now,147.43,159.99,147.43,promotion,1,True,True,,Foz do Iguaçu,Paraná
+MLB4212992502,new,Kit 5 Faixa De Cabeça Esporte Yoga Corrida Academia ,buy_it_now,33.9,,33.9,standard,1,True,True,1.0,São Paulo Zona Leste,São Paulo
+MLB3910946223,new,Tênis Mizuno Wave Creation 20 Color Grafite - Adulto 41 Br,buy_it_now,108.0,300.0,108.0,promotion,500,True,True,,São Paulo Zona Sul,São Paulo
+MLB4757947174,new,Kit 2 Faixas Headband Anti Suor Cabelo Testa Esporte Corrida,buy_it_now,14.44,28.89,14.44,promotion,1,True,True,0.85,Contagem,Minas Gerais
+MLB3746644965,new,Tênis Lite Racer 4.0 adidas,buy_it_now,161.49,299.99,161.49,promotion,250,True,True,1.0,Extrema,Minas Gerais
+MLB3573962689,new,Tênis New Balance Fresh Foam X 1080 V12 Color Navy Blue/green - Adulto 11 Us,buy_it_now,733.4,999.9,733.4,promotion,1,True,True,,Itabira,Minas Gerais
+MLB3780673785,new,Tênis Marez Masculino Olympikus,buy_it_now,178.99,349.99,178.99,promotion,1,True,True,,Cajamar,São Paulo
+MLB5097544238,new,Tênis Mizuno Enigma - Masculino Preto,buy_it_now,258.92,349.9,258.92,promotion,1,True,True,1.0,Santa Cruz do Sul,Rio Grande do Sul
+MLB3904239231,new,Asics Gel-nimbus 26 Feminino Preto E Verde Adultos,buy_it_now,1199.9,,1199.9,standard,1,True,True,1.0,Volta Redonda,Rio de Janeiro
+MLB4928472342,new,Tênis Puma Smash V2 L Color Preto/branco - Adulto 38 Br,buy_it_now,225.15,349.99,225.15,promotion,50,True,True,,Penápolis,São Paulo
+MLB3845069249,new,Tênis Masculino Puma Promoção Pronta Entrega Macio Leve Novo,buy_it_now,129.99,333.33,129.99,promotion,5000,True,True,1.0,Nova Serrana,Minas Gerais
+MLB4540520250,new,Kit 2 Tênis Para Academia Feminino Ortopédico + Relógio,buy_it_now,148.88,190.88,148.88,promotion,250,True,True,0.88,Franca,São Paulo
+MLB3568789163,new,Tênis Masculino Olympikus Esportivo Volcan Corrida Original,buy_it_now,189.99,249.99,189.99,promotion,1,True,True,0.77,São João da Boa Vista,São Paulo
+MLB3867022685,new,Tênis Under Armour Ua Ch Quicker Feminino Moderno Elegante,buy_it_now,243.99,399.99,243.99,promotion,50,True,True,0.77,Penápolis,São Paulo
+MLB3095199745,new,Tênis Feminino Esportivo Ultraleve 130g Olympikus,buy_it_now,108.99,229.99,108.99,promotion,50,True,True,,Cajamar,São Paulo
+MLB3263377279,new,Tênis Olympikus Vibração Masculino,buy_it_now,142.9,199.9,142.9,promotion,200,True,True,0.88,São Paulo Centro,São Paulo
+MLB3505177514,new,Kit 5 Faixas Headband Anti Suor Cabelo Testa Esporte Corrida,buy_it_now,35.18,50.99,35.18,promotion,1,True,True,0.85,Santos,São Paulo
+MLB3867409393,new,Tênis Under Armour Wing Se Feminino Moderno Estiloso,buy_it_now,207.89,329.99,207.89,promotion,100,True,True,0.88,Penápolis,São Paulo
+MLB3751689031,new,Kit 2 Pares Tênis Casual Esportivo Masculino Relogio Digital,buy_it_now,149.9,,149.9,standard,5000,True,True,0.81,Nova Serrana,Minas Gerais
+MLB1630949349,new,Tênis Masculino Academia Caminhada Corrida Training Bylbow,buy_it_now,69.43,78.9,69.43,promotion,500,True,True,0.77,,Minas Gerais
+MLB5166533178,new,Tênis Esportivo Corrida Confortável Versátil Caminhada Leve,buy_it_now,89.9,,89.9,standard,500,True,True,1.0,Franca,São Paulo
+MLB5041516542,new,Tênis Reebok Nanoflex Tr V2 Homem,buy_it_now,359.94,599.9,359.94,promotion,50,True,True,1.0,Itabira,Minas Gerais
+MLB4839351810,new,Tênis Asics Jolt 4 Masculino Corrida - Caminhada,buy_it_now,227.3,359.9,227.3,promotion,100,True,True,1.0,São Paulo Centro,São Paulo
+MLB3804607919,new,Tênis Olympikus Subverse Color Vermelho - Adulto 38 Br,buy_it_now,297.49,349.99,297.49,promotion,1,True,True,,Londrina,Paraná
+MLB5168985220,new,Calce Fácil Masculino Leve Confortável Elástico *oferta*,buy_it_now,116.39,119.99,116.39,promotion,500,True,True,0.9,Franca,São Paulo
+MLB4871248626,new,Tênis Nike Downshifter 13 Masculino,buy_it_now,283.49,449.99,283.49,promotion,1,True,True,0.62,São Paulo Zona Oeste,São Paulo
+MLB3264650477,new,Tenis Sapatilha Bike Pesca Corrida Academia Neoprene Confort,buy_it_now,53.0,,53.0,standard,250,True,True,0.87,Franca,São Paulo
+MLB2164871501,new,Tênis Masculino Olymp Olimp Space Caminhada Barato Promoção ,buy_it_now,59.24,78.99,59.24,promotion,100,True,True,0.77,Nova Serrana,Minas Gerais
+MLB1451757631,new,Tenis Feminino Academia Barato Caminhada Corrida Esportivo,buy_it_now,45.6,69.9,45.6,promotion,100,True,True,0.77,Nova Serrana,Minas Gerais
+MLB2795714771,new,Tênis Feminino Modare Ultraconforto Gel Tech Macio Original,buy_it_now,113.89,138.9,113.89,promotion,100,True,True,0.77,Jacareí,São Paulo
+MLB3472264043,new,Combo 3 Pares Tênis Feminino Academia Confortável Promoção,buy_it_now,165.5,179.9,165.5,promotion,5000,True,True,0.9,Nova Serrana,Minas Gerais
+MLB3819755349,new,Tênis Feminino Olympikus Pride 3 Cor Gelo Arenito - Adulto 37 Br,buy_it_now,370.49,493.99,370.49,promotion,1,True,True,,Maringá,Paraná
+MLB5181159676,new,Tênis Puma Academia Promoção Lançamento Macio Treino 34 A 43,buy_it_now,129.99,333.33,129.99,promotion,5000,True,True,1.0,Nova Serrana,Minas Gerais
+MLB4431566654,new,Tenis Esportivo Ds Go Ahead Estilo Leve Confortavel,buy_it_now,48.45,61.02,48.45,promotion,100,True,True,0.87,Nova Serrana,Minas Gerais
+MLB3739730469,new,Tênis On Running Cloudgo Shale,buy_it_now,699.9,,699.9,standard,50,True,True,0.81,São Paulo Zona Norte,São Paulo
+MLB4714252474,new,Tênis Feminino Academia Macio Leve Ortopédico + Relógio  ,buy_it_now,63.65,78.9,63.65,promotion,50,True,True,0.55,Nova Serrana,Minas Gerais
+MLB3435230551,new,Kit Tênis Esportivo It Shoes Masculino + Relógio Digital,buy_it_now,119.64,209.9,119.64,promotion,250,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3519501807,new,Tênis Menino Casual Calce Fácil Dia A Dia Conforto Original,buy_it_now,67.04,78.88,67.04,promotion,150,True,True,0.66,São Bernardo do Campo,São Paulo
+MLB3847973231,new,Tênis Esportivo Feminino Academia Novo Leve Treino Promoção,buy_it_now,79.9,,79.9,standard,100,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3267477309,new,Tênis Masculino Ultrabone Caminhada Academia Black + Relógio,buy_it_now,74.92,99.9,74.92,promotion,100,True,True,0.66,Franca,São Paulo
+MLB1248122363,new,Oculos Rockbros Para Ciclista Bike Ciclismo Corrida Pesca Esporte Ao Ar Livre Kit 5 Lentes Polarizada Material Levissimo,buy_it_now,119.99,,119.99,standard,1,True,True,0.87,Sorocaba,São Paulo
+MLB2082131531,new,Tenis Masculino Leve Confotavel Dia A Dia Para Treino,buy_it_now,105.31,,105.31,standard,1,True,True,0.88,Franca,São Paulo
+MLB3247479197,new,Viseira Esportiva Fitness De Corrida Você Escolhe A Cor,buy_it_now,24.94,,24.94,standard,50,True,True,0.85,Guarulhos,São Paulo
+MLB3754749247,new,Tênis Olympikus Casual Citrus 2 Color Preto/bronze - Adulto 34 Br,buy_it_now,151.0,,151.0,standard,1,True,True,,Presidente Prudente,São Paulo
+MLB2005018319,new,Faixa Elástica De Cabeça Esporte Corrida Futebol Yoga Volei ,buy_it_now,16.75,,16.75,standard,1,True,True,1.0,São José dos Campos,São Paulo
+MLB3494717474,new,Kit Tenis Confortavel Masculino P/academia Corrida + Relógio,buy_it_now,74.95,78.9,74.95,promotion,100,True,True,0.77,Franca,São Paulo
+MLB3489716359,new,Tênis Masculino Olympikus Dynamic Esportivo Moderno Original,buy_it_now,248.45,302.99,248.45,promotion,100,True,True,0.9,Cascavel,Paraná
+MLB1857055414,new,Sapatilha Ortopédica Feminino Calce Fácil Caminhada Promoção,buy_it_now,60.03,78.99,60.03,promotion,250,True,True,0.77,Nova Serrana,Minas Gerais
+MLB2674002441,new,Tênis Cross Tryd 5400 Academia Caminhada Confortável Leve,buy_it_now,65.99,99.99,65.99,promotion,250,True,True,0.77,Nova Serrana,Minas Gerais
+MLB3667080057,new,Tênis Esportivo Masculino Feminino Academia + Relógio Fone,buy_it_now,98.99,149.99,98.99,promotion,150,True,True,0.88,Perdigão,Minas Gerais
+MLB5059572310,new,3 Faixas De Cabelo Masculina 5x22  Memphis D Timão Esporte,buy_it_now,18.0,,18.0,standard,1,True,True,0.85,Guarulhos,São Paulo
+MLB4787849286,new,Tênis Branco Academia Caminhada Esportivo Confortável Barato,buy_it_now,55.16,78.8,55.16,promotion,150,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3692448155,new,Kit Tenis Feminino + Relogio + Meia Academia Corrida Treino,buy_it_now,68.99,78.4,68.99,promotion,250,True,True,0.66,Perdigão,Minas Gerais
+MLB1473928151,new,Tênis Masculino Tamanho Especial Esporte Caminhada Box 200,buy_it_now,76.41,89.9,76.41,promotion,50,True,True,0.66,Birigüi,São Paulo
+MLB3206231868,new,Faixa Cabelo Suor Headband Corrida Esporte Testa Cabeça Yoga,buy_it_now,19.0,25.9,19.0,promotion,50,True,True,0.85,Rio de Janeiro Zona Oeste,Rio de Janeiro
+MLB3000769898,new,Saia Short Fitness Moda Evangelica Cintura Alta Premium,buy_it_now,70.91,78.79,70.91,promotion,1,True,True,0.87,São José dos Campos,São Paulo
+MLB5054978814,new,Tênis Casual Air Plataforma Feminino Lançamento Promoção,buy_it_now,71.25,109.9,71.25,promotion,150,True,True,0.66,Nova Serrana,Minas Gerais
+MLB1936590556,new,Kit 2 Faixa Elástica De Cabeça Esporte Corrida Futebol Yoga,buy_it_now,23.99,,23.99,standard,50,True,True,1.0,São José dos Campos,São Paulo
+MLB3800656973,new,Tênis Esportivo Feminino Academia Running + Fone Sem Fio,buy_it_now,78.21,89.9,78.21,promotion,250,True,True,0.77,Franca,São Paulo
+MLB1735071183,new,Tenis Academia Corrida Original Caminhada Evoltenn Crossfit,buy_it_now,71.01,78.9,71.01,promotion,250,True,True,0.66,Franca,São Paulo
+MLB2206211343,new,Kit 2 Faixa Elástica De Cabeça Esporte Corrida Futebol Yoga,buy_it_now,11.51,15.99,11.51,promotion,1,True,True,0.85,São Bernardo do Campo,São Paulo
+MLB3263121129,new,Tênis Olympikus Vibração Masculino Esportivo - Original,buy_it_now,148.9,199.9,148.9,promotion,500,True,True,0.83,São Paulo Centro,São Paulo
+MLB3440744867,new,Blusa Regata Feminina Academia Tapa Bumbum Sobre Legging Dry,buy_it_now,25.93,39.9,25.93,promotion,500,True,True,0.85,Divinópolis,Minas Gerais
+MLB3777944827,new,Tênis Under Armour Tribase Reps 2 Original Treino Academia,buy_it_now,459.99,499.99,459.99,promotion,50,True,True,1.0,Toledo,Paraná
+MLB3655471554,new,Tênis Esportivo It Shoes Amortecedor Gel Masculino,buy_it_now,104.9,189.9,104.9,promotion,250,True,True,0.77,Nova Serrana,Minas Gerais
+MLB3508735432,new,Tênis Lap 24/7 Masculino Olympikus,buy_it_now,150.99,229.99,150.99,promotion,50,True,True,,Cajamar,São Paulo
+MLB3690757749,new,Kit 2 Camisetas Dry Fit Academia Exercícios Plus Size Treino,buy_it_now,57.0,79.99,57.0,promotion,5000,True,True,0.9,Guarulhos,São Paulo
+MLB1824136653,new,Tênis Feminino Leve Esportivo Sapato Confortável Promoção,buy_it_now,44.65,59.99,44.65,promotion,100,True,True,0.87,Poá,São Paulo
+MLB3733489779,new,Tênis Fila Masculino Duality Original,buy_it_now,217.43,342.49,217.43,promotion,1,True,True,0.88,Sorocaba,São Paulo
+MLB5157603134,new,Tênis Masculino Mizuno Wave Creation 20 Branco Confortavel,buy_it_now,127.96,399.9,127.96,promotion,5000,True,True,0.9,Nova Serrana,Minas Gerais
+MLB2944510209,new,Tênis Masculino Academia Caminhada Vili Barato Leve Corrida,buy_it_now,109.9,,109.9,standard,250,True,True,0.88,Pará de Minas,Minas Gerais
+MLB1559933283,new,Tenis Feminino Academia Original Corrida Caminhada Byllbow,buy_it_now,63.96,78.0,63.96,promotion,250,True,True,0.77,,Minas Gerais
+MLB1728032806,new,Tenis Masculino Para Academia #promoção,buy_it_now,68.34,119.9,68.34,promotion,250,True,True,0.77,Nova Serrana,Minas Gerais
+MLB2178784657,new,Tênis Feminino Academia - Kit 3 Tênis Super Confortáveis,buy_it_now,175.65,184.9,175.65,promotion,500,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3855193929,new,Tênis Masculino Preto Para Caminhada De Academia Esportivo,buy_it_now,65.99,109.99,65.99,promotion,200,True,True,0.66,Pará de Minas,Minas Gerais
+MLB5055339222,new,Kit Tenis Feminino + Relogio Academia Corrida Treino Leve,buy_it_now,59.98,115.28,59.98,promotion,100,True,True,0.77,Perdigão,Minas Gerais
+MLB4370497290,new,Tênis Masculino Olympikus Volcan Academia Corrida Original,buy_it_now,169.0,249.99,169.0,promotion,200,True,True,0.77,São João da Boa Vista,São Paulo
+MLB2165010910,new,Tênis Feminino Academia Olymp Olimp Space Promoção E Barato,buy_it_now,51.36,78.9,51.36,promotion,100,True,True,0.87,Nova Serrana,Minas Gerais
+MLB1716318744,new,Taygra Original Para Dança Confortável  Preto - Envio 24hs ,buy_it_now,179.9,,179.9,standard,1,True,True,0.66,Florianópolis,Santa Catarina
+MLB3814824593,new,Tênis Casual Feminino Nyx Olympikus Novidade,buy_it_now,155.99,189.99,155.99,promotion,250,True,True,0.88,Cajamar,São Paulo
+MLB5126048696,new,Tênis Feminino Casual Leve Para Corrida Academia Confortável,buy_it_now,88.87,96.6,88.87,promotion,500,True,True,0.81,Franca,São Paulo
+MLB3870610903,new,Tênis Asics Original Gel Shinobi 2 Masculino Original Treino,buy_it_now,283.1,479.9,283.1,promotion,150,True,True,1.0,São Paulo Centro,São Paulo
+MLB4728681096,new,Tênis Olympikus Marte Color Preto - Adulto 40 Br,buy_it_now,133.64,146.0,133.64,promotion,1,True,True,,Foz do Iguaçu,Paraná
+MLB3823548821,new,Tenis Esporte Masculino Academia Caminhada + Relógio Digital,buy_it_now,75.52,104.9,75.52,promotion,5000,True,True,0.72,Franca,São Paulo
+MLB5181351334,new,Tênis Feminino Olk Confortável Academia E Esportivo,buy_it_now,145.0,,145.0,standard,500,True,True,1.0,Nova Serrana,Minas Gerais
+MLB1791499655,new,Kit 2 Pares De Tenis Masculino Academia Limited + Relogio,buy_it_now,131.42,,131.42,standard,5000,True,True,0.72,Franca,São Paulo
+MLB3647139263,new,Tênis Mizuno Jet 7 Masculino Corrida - Caminhada,buy_it_now,238.24,333.22,238.24,promotion,50,True,True,1.0,São Paulo Centro,São Paulo
+MLB5170608278,new,Tênis Fila Activewear Transition F01r00083 Color Cinza/preto - Adulto 39 Br,buy_it_now,213.9,274.99,213.9,promotion,1,True,True,,São João da Boa Vista,São Paulo
+MLB2978839915,new,Tênis Olympikus Dynamic Masculino Academia - Fitness,buy_it_now,229.11,311.0,229.11,promotion,50,True,True,1.0,São Paulo Centro,São Paulo
+MLB3262469379,new,Sapatilha Aquatica Neoprene Secarapido Sola Forte Confort,buy_it_now,52.9,,52.9,standard,150,True,True,1.0,Franca,São Paulo
+MLB3746804269,new,Tênis Reebok Nanoflex Tr V2 Masculino,buy_it_now,361.95,599.9,361.95,promotion,500,True,True,1.0,Itabira,Minas Gerais
+MLB3889135847,new,Tênis Masculino Asics Gel Takumi Marron,buy_it_now,399.8,,399.8,standard,1,True,True,0.8,Criciúma,Santa Catarina
+MLB3781112593,new,Tenis Masculino Soma Olympikus Dia A Dia Original,buy_it_now,177.9,249.99,177.9,promotion,100,True,True,0.88,São João da Boa Vista,São Paulo
+MLB4215203790,new,Tênis Esportivo Feminino Vili All Journey Academia Caminhada,buy_it_now,106.08,115.31,106.08,promotion,150,True,True,0.8,Pará de Minas,Minas Gerais
+MLB3663270273,new,Tênis Menina Sapato Fem Combo 2  Escolar Casual Original Dzu,buy_it_now,129.16,169.96,129.16,promotion,500,True,True,0.88,Nova Serrana,Minas Gerais
+MLB5113477672,new,Óculos Ciclismo Esporte Bike Absolute Uv400 Polarizado Nero Cor Da Armação Preta,buy_it_now,57.9,,57.9,standard,1,True,True,,Cotia,São Paulo
+MLB4754597454,new,Lite Racer 4.0 adidas,buy_it_now,161.49,299.99,161.49,promotion,500,True,True,1.0,Extrema,Minas Gerais
+MLB5052923682,new,Tênis Masculino Asics Original Lançamento Academia Promoção,buy_it_now,99.99,333.33,99.99,promotion,50000,True,True,0.9,Nova Serrana,Minas Gerais
+MLB3837411781,new,"Tênis Hoka Clifton 8 Cor De Aço Azul/laranja - Adulto 45,5 Ue",buy_it_now,989.91,1099.9,989.91,promotion,1,True,True,,Itabira,Minas Gerais
+MLB3838470073,new,Tênis Fila Float Maxxi 2 Color Azul/grafite - Adulto 40 Br,buy_it_now,529.9,797.18,529.9,promotion,1,True,True,,Nova Lima,Minas Gerais
+MLB3068725904,new,Tênis Masculino Revior Esportivo Tamanho Especial 44-48,buy_it_now,107.35,149.9,107.35,promotion,100,True,True,1.0,Nova Serrana,Minas Gerais
+MLB2165374580,new,Tênis Para Academia Original - Esportivo,buy_it_now,54.15,78.99,54.15,promotion,250,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3390758738,new,Tenis Masculino Unissex Botinha Corrida Academia Promoção,buy_it_now,71.01,78.9,71.01,promotion,250,True,True,0.77,Franca,São Paulo
+MLB5067427854,new,Tênis Esportivo Feminino Academia Novo Leve Treino Promoção,buy_it_now,63.12,79.9,63.12,promotion,100,True,True,0.88,Nova Serrana,Minas Gerais
+MLB3901538069,new,Tenis Sapatilha Leve Neoprene Lançamento Verão Leve,buy_it_now,29.99,49.99,29.99,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB3492349099,new,Tenis Masculino Leve Confortavel  Para Treino + Relógio ,buy_it_now,103.3,109.9,103.3,promotion,500,True,True,0.81,Franca,São Paulo
+MLB5051480786,new,Kit 3 Tênis Academia Treino Masculino Fitness Promoção,buy_it_now,178.5,184.9,178.5,promotion,1,True,True,0.88,Nova Serrana,Minas Gerais
+MLB2620653532,new,Tênis Para Trabalho Passeio Casual Leve Conforto Top Oferta,buy_it_now,93.02,,93.02,standard,5000,True,True,0.63,Franca,São Paulo
+MLB5024503060,new,Tênis Feminino Adulto Jogger Academia Treino Caminhada Macio,buy_it_now,102.33,159.9,102.33,promotion,50,True,True,0.81,Perdigão,Minas Gerais
+MLB3845579749,new,12 Faixas Fitness Flexível Macias Respirável Não Suam,buy_it_now,31.9,,31.9,standard,250,True,True,1.0,São Paulo Centro,São Paulo
+MLB3875760883,new,Tênis Masculino Colcci Cosmos Moda Casual Urbano Confortável,buy_it_now,197.79,459.99,197.79,promotion,150,True,True,0.66,Penápolis,São Paulo
+MLB3827168491,new,Tênis Fila Racer Speedzone Masculino,buy_it_now,551.9,599.9,551.9,promotion,500,True,True,1.0,Itabira,Minas Gerais
+MLB2707831259,new,"Tenis Olympikus Proof 3 Masculino Numero 45,46,47,48",buy_it_now,199.4,209.9,199.4,promotion,250,True,True,0.88,Toledo,Paraná
+MLB2611948644,new,Tênis Meia Slip On Feminino Masculino Academia Caminhada,buy_it_now,45.99,,45.99,standard,50,True,True,0.62,Perdigão,Minas Gerais
+MLB3658288680,new,Tenis Corrida Casual Insanity Leve Confortável Macio 34-43,buy_it_now,49.9,78.9,49.9,promotion,100,True,True,0.66,Franca,São Paulo
+MLB3625132123,new,Tenis Academia Masculino Corrida Caminhada West Boot Wave 20,buy_it_now,89.89,,89.89,standard,5000,True,True,0.81,Uberaba,Minas Gerais
+MLB3335721459,new,Kit 2 Pares De Tênis Masculino Academia Caminhada Casual Neo,buy_it_now,139.9,,139.9,standard,5000,True,True,0.66,Nova Serrana,Minas Gerais
+MLB2215658096,new, Tênis Feminino Para Academia Kit 3 Tênis R-4000,buy_it_now,174.7,189.9,174.7,promotion,150,True,True,0.77,Nova Serrana,Minas Gerais
+MLB3610645415,new,Tênis Asics Gel Excite 10 Feminino Corrida - Caminhada,buy_it_now,359.9,459.9,359.9,promotion,150,True,True,1.0,São Paulo Centro,São Paulo
+MLB3306405231,new,Tênis Esportivo Feminino Super Leve E Macio Para Corrida,buy_it_now,71.07,124.7,71.07,promotion,200,True,True,0.77,Nova Serrana,Minas Gerais
+MLB3635187977,new,Kit 2 Tenis Masculino Cores Promoção Confortavel Treino Wave,buy_it_now,163.77,,163.77,standard,5000,True,True,0.81,Uberaba,Minas Gerais
+MLB5181172360,new,Tênis New Balance 574 Lançamento Promoção Barato Oferta Novo,buy_it_now,99.99,333.33,99.99,promotion,5000,True,True,0.9,Nova Serrana,Minas Gerais
+MLB3906719435,new,Tênis Masculino Voa 2 Olympikus,buy_it_now,269.99,299.99,269.99,promotion,1,True,True,,Londrina,Paraná
+MLB3558685771,new,Tênis De Corrida Feminino Mizuno Vitality 4,buy_it_now,229.99,,229.99,standard,500,True,True,0.87,Jundiaí,São Paulo
+MLB3127587605,new,Tenis Sapatilha Neoprene Bike Pesca Unissex Top Promoção ,buy_it_now,52.0,,52.0,standard,50000,True,True,0.88,Franca,São Paulo
+MLB5077135906,new,Tênis Asics Gel Shogun St Feminino Corrida - Caminhada,buy_it_now,322.9,399.99,322.9,promotion,250,True,True,1.0,São Paulo Centro,São Paulo
+MLB3895746881,new,"Faixa De Cabeça 7,5cm Compressport",buy_it_now,149.9,176.36,149.9,promotion,1,True,True,1.0,Bauru,São Paulo
+MLB5126493880,new,Tenis Skechers Bountiful 894284bbk Masculino,buy_it_now,257.91,299.9,257.91,promotion,1,True,True,1.0,Carazinho,Rio Grande do Sul
+MLB1653954873,new,Kit 3 Tênis Masculino Esporte Easy Corrida Caminhada Leve,buy_it_now,172.42,229.9,172.42,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB3671627591,new,Tênis Asics Gel Excite 10 Masculino Corrida - Caminhada,buy_it_now,383.25,511.0,383.25,promotion,50,True,True,1.0,São Paulo Centro,São Paulo
+MLB3838035977,new,On Running Cloudvista 2 Waterproof Feminino Black Eclipse,buy_it_now,1099.0,,1099.0,standard,1,True,True,0.9,Araçatuba,São Paulo
+MLB5033889544,new,Tênis Asics Raiden 4 Masculino Treino Academia ,buy_it_now,276.75,349.9,276.75,promotion,200,True,True,1.0,São Paulo Centro,São Paulo
+MLB3792837177,new,Tênis Ultrarange Rw Confortável Lindo Macio Do 34 Ao 43,buy_it_now,119.94,199.9,119.94,promotion,50000,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3709509969,new,2 Camiseta Dry Fit Para Treinar Max Titanium - Original ,buy_it_now,78.8,,78.8,standard,500,True,True,0.7,Birigüi,São Paulo
+MLB1103564609,new,2 Pares Tênis Caminhada Academia Easy Ousy Lançamento 2019,buy_it_now,125.93,179.9,125.93,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB5174280218,new,Kit Sapatenis Masculino Casual Básico + Relógio Ponteiro,buy_it_now,89.91,99.9,89.91,promotion,5000,True,True,0.9,Franca,São Paulo
+MLB3635250699,new,Kit 2 Tenis Masculino Esportivo Adulto Caminhada Corrida To,buy_it_now,161.7,,161.7,standard,50000,True,True,0.72,Uberaba,Minas Gerais
+MLB4839290752,new,Tênis Asics Jolt 4 Feminino Corrida - Caminhada,buy_it_now,234.24,333.22,234.24,promotion,150,True,True,1.0,São Paulo Centro,São Paulo
+MLB5067325294,new,Tênis On Running Cloudswift Blush Rose,buy_it_now,699.9,,699.9,standard,1,True,True,0.9,São Paulo Zona Norte,São Paulo
+MLB3867686299,new,Tênis Asics Gel-nimbus 26,buy_it_now,1199.9,,1199.9,standard,1,True,True,1.0,Rio de Janeiro Centro,Rio de Janeiro
+MLB3128499899,new,Sapatilha Híbrida Aquática Pesca Neoprene Trilha Bike Praia,buy_it_now,53.0,,53.0,standard,50000,True,True,0.88,Franca,São Paulo
+MLB3422962581,new,Tênis Casual Masculino E Feminino Jogging 101 Azul Tamanho 43 Olympikus,buy_it_now,169.99,199.99,169.99,promotion,1,True,True,,Londrina,Paraná
+MLB5137442752,new,Tênis Masculino Corrida Esportivo Leve Academia + Relogio,buy_it_now,84.46,94.9,84.46,promotion,500,True,True,0.81,Franca,São Paulo
+MLB3699978851,new,Tênis Fila Float Maxxi 2 Pro Masculino Adulto Corrida,buy_it_now,646.0,949.9,646.0,promotion,1,True,True,0.9,Novo Hamburgo,Rio Grande do Sul
+MLB4543647420,new,Camiseta Mizuno Nirvana Masculina De Treino,buy_it_now,89.9,,89.9,standard,1,True,True,0.9,São Paulo Centro,São Paulo
+MLB3583473003,new,Tênis Militar Corrida Preto Couro 100% Legítimo Resistente,buy_it_now,197.91,219.9,197.91,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB3694977559,new,Tênis Olympikus Jogging 100 Color Branco - Adulto 38 Br,buy_it_now,194.65,229.0,194.65,promotion,1,True,True,,Londrina,Paraná
+MLB3626910363,new,Olympikus Apolis Color Preto/rosa - Femenino Adulto 37 Br,buy_it_now,135.9,151.0,135.9,promotion,1,True,True,,Foz do Iguaçu,Paraná
+MLB1614632547,new,Kit 2 Tênis Masculino Academia Crossfit Corrida Barato ,buy_it_now,127.9,159.9,127.9,promotion,50000,True,True,0.9,Franca,São Paulo
+MLB5070338400,new,Tênis Meia Feminino Botinha Ortopédico Esportivo Slip On Cas,buy_it_now,38.9,,38.9,standard,50,True,True,1.0,Franca,São Paulo
+MLB5087910214,new,Óculos Esportivo Bike Beach Tennis Volei Praia Corrida Uv400,buy_it_now,39.27,78.55,39.27,promotion,1,True,True,0.77,Araras,São Paulo
+MLB5143004180,new,Tênis Masculino Branco P Esportes Academia Caminhada Corrida,buy_it_now,47.5,74.99,47.5,promotion,50000,True,True,0.72,Franca,São Paulo
+MLB3383062431,new,Tênis Olympikus Voa 2 Preto,buy_it_now,272.85,,272.85,standard,100,True,True,0.72,Presidente Prudente,São Paulo
+MLB2669710490,new,Cadarço Elástico Tênis Adulto Infantil Corrida Sem Amarrar,buy_it_now,31.97,,31.97,standard,1,True,True,1.0,Guarulhos,São Paulo
+MLB4972764622,new,Tênis Caminhada Sneaker Feminino Polo Running Corrida,buy_it_now,79.0,,79.0,standard,5000,True,True,0.9,Franca,São Paulo
+MLB4543280672,new,Sapatenis Masculino Kit Tenis Relogio Com Meia Polo,buy_it_now,88.02,,88.02,standard,5000,True,True,0.81,Franca,São Paulo
+MLB4334370416,new,Camiseta Compressão Masculina Under Armour Hg Armour Ss Mc,buy_it_now,198.55,209.0,198.55,promotion,1,True,True,0.8,Barueri,São Paulo
+MLB1262290677,new,Tênis Caminhada Training Masculino + Boné + Relógio,buy_it_now,90.93,129.9,90.93,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB4936093962,new,Tênis Esportivo Novo Masculino Feminino Corrida Relógio Fone,buy_it_now,64.99,,64.99,standard,5000,True,True,0.7,Perdigão,Minas Gerais
+MLB3584651683,new,Tênis Puma Flyer Flex Bdp Feminino Casual,buy_it_now,238.35,329.9,238.35,promotion,150,True,True,1.0,São Paulo Centro,São Paulo
+MLB4631981276,new,Boné Trucker Esporte Academia Treino Corrida Unissex Básico,buy_it_now,35.9,,35.9,standard,500,True,True,0.87,Franca,São Paulo
+MLB5017190294,new,Tênis Original Couro Garantia Lançamento Promoção Oferta,buy_it_now,90.0,,90.0,standard,50000,True,True,0.8,Nova Serrana,Minas Gerais
+MLB3858547169,new,Tênis Puma Runner City Bdp Color Branco/vermelho - Adulto 37 Br,buy_it_now,271.59,449.9,271.59,promotion,100,True,True,,Nova Lima,Minas Gerais
+MLB5181323470,new,Tênis Masculino Olk Confortável Academia E Esportivo,buy_it_now,149.9,,149.9,standard,500,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3838215623,new,Tênis Asics Gel Shogun St Masculino Corrida - Caminhada,buy_it_now,339.91,399.9,339.91,promotion,250,True,True,1.0,São Paulo Centro,São Paulo
+MLB4559054922,new,Tenis Olympikus Dynamic 343 Preto Laranja Masculino,buy_it_now,262.2,299.9,262.2,promotion,1,True,True,1.0,Carazinho,Rio Grande do Sul
+MLB3201442401,new,Tênis Masculino Casual Olympikus Marte,buy_it_now,162.51,211.0,162.51,promotion,50,True,True,0.9,São Paulo Centro,São Paulo
+MLB5024539252,new,Tenis Infantil Unissex Várias Cores Números Envio Em 24h,buy_it_now,53.07,93.1,53.07,promotion,250,True,True,0.7,Conceição do Pará,Minas Gerais
+MLB5056532908,new,Kit 2 Pares Tenis Gel Sendai Macio Crossfit Corrida Leve,buy_it_now,169.99,499.98,169.99,promotion,500,True,True,0.9,Nova Serrana,Minas Gerais
+MLB3611509224,new,Tênis Mizuno Wave Invictus 2 Color Marrom/branco/preto/preto - Adulto 37 Br,buy_it_now,604.54,,604.54,standard,1,True,True,,Guarapari,Espírito Santo
+MLB5139647554,new,Tênis Masculino Gel Revelation Corrida Academia Treino Macio,buy_it_now,101.99,299.99,101.99,promotion,5000,True,True,0.72,Contagem,Minas Gerais
+MLB4078834098,new,Tênis Poseidon Masculino Adultos Olympikus,buy_it_now,135.0,,135.0,standard,1,True,True,,Belo Horizonte,Minas Gerais
+MLB789946269,new,Cadarço Elástico Para Tênis - Corrida E Triathlon Cool Lace,buy_it_now,19.99,,19.99,standard,1,True,True,0.87,Tremembé,São Paulo
+MLB5132543404,new,Tenis Fila Racer Comet Feminino-preto/rosa/cobre,buy_it_now,263.99,,263.99,standard,1,True,True,0.9,Belo Horizonte,Minas Gerais
+MLB3448623819,new,Tênis Olympikus Pride 3 Unissex,buy_it_now,199.99,,199.99,standard,500,True,True,0.87,Jundiaí,São Paulo
+MLB3802571860,new,Tênis Asics Versablast 2 Se Masculino,buy_it_now,221.03,329.9,221.03,promotion,100,True,True,0.9,Itabira,Minas Gerais
+MLB4639496046,new,Tenis Ortopedico Masculino Corrida Caminhada Academia Treino,buy_it_now,120.61,131.1,120.61,promotion,5000,True,True,0.81,Restinga,São Paulo
+MLB1859995876,new,Kit 2 Pares Tênis Meia Feminino Masculino Slip On Caminhada,buy_it_now,105.4,,105.4,standard,50000,True,True,0.72,Perdigão,Minas Gerais
+MLB3689996932,new,Kit 2 Pares De Tênis Super Leve Plaza Neo Esportivo +relógio,buy_it_now,149.9,,149.9,standard,5000,True,True,0.66,Nova Serrana,Minas Gerais
+MLB3895477295,new,Tênis Fila Racer Speedzone Homem,buy_it_now,599.9,,599.9,standard,500,True,True,1.0,Itabira,Minas Gerais
+MLB3627577949,new,Tênis De Corrida Feminino Swift 4 Olympikus,buy_it_now,172.96,219.0,172.96,promotion,1,True,True,,Foz do Iguaçu,Paraná
+MLB1734949618,new,Kit 2 Tênis Treino Crossfit Corrida Academia Barato Leve,buy_it_now,114.95,159.9,114.95,promotion,50000,True,True,0.81,Franca,São Paulo
+MLB4847152478,new,3 Pares Tênis Esportivo Tenis Masculino Leve E Macio Frete,buy_it_now,145.13,219.9,145.13,promotion,5000,True,True,0.9,Franca,São Paulo
+MLB3655192104,new,Kit 2 Tênis Masculino Prospect Fly Promoção Oferta Barato,buy_it_now,99.32,139.9,99.32,promotion,5000,True,True,0.72,Franca,São Paulo
+MLB3870560421,new,Tênis Masculino Academia Asics Gel Shinobi 2 Preto Dourado,buy_it_now,283.1,479.9,283.1,promotion,250,True,True,1.0,São Paulo Centro,São Paulo
+MLB4766247486,new,Tênis De Corrida Masculino Mizuno Victory Rsp 0590 37/44,buy_it_now,322.49,452.9,322.49,promotion,1,True,True,0.8,Londrina,Paraná
+MLB5052925732,new,Tênis Feminino Asics Revelation Original Corrida garantia,buy_it_now,99.9,333.0,99.9,promotion,5000,True,True,0.81,Nova Serrana,Minas Gerais
+MLB2932065730,new,Tenis Masculino Academia Corrida Wave Force Promoção Barato,buy_it_now,77.99,,77.99,standard,500,True,True,0.8,Nova Serrana,Minas Gerais
+MLB2111116051,new,Tênis Militar Tático Corrida Kallucci Tfm Todo Em Couro,buy_it_now,197.91,219.9,197.91,promotion,5000,True,True,0.9,Franca,São Paulo
+MLB5024335606,new,Kit 2 Tênis Masculino Corrida E Academia Esportivo Confort,buy_it_now,110.14,189.9,110.14,promotion,5000,True,True,0.81,Franca,São Paulo
+MLB3747718013,new,Tenis Olympikus Challenger 5 Corrida Original Nf Running,buy_it_now,215.93,359.88,215.93,promotion,50,True,True,0.81,Nova Esperança do Sudoeste,Paraná
+MLB3822450089,new,Sapatilha Para Kart K-speed Ultraleve Corida Original Sparco,buy_it_now,587.1,720.0,587.1,promotion,50,True,True,0.9,São Paulo Zona Sul,São Paulo
+MLB3340730549,new, Tênis Feminino Kit Com 3 Cadarço Academia Fitness,buy_it_now,184.9,,184.9,standard,5000,True,True,0.72,,Minas Gerais
+MLB4703063744,new,Tênis Olympikus Clic Masculino Corrida - Caminhada,buy_it_now,207.25,249.9,207.25,promotion,100,True,True,1.0,São Paulo Centro,São Paulo
+MLB3724101529,new,Tênis Crazychaos 2000 adidas,buy_it_now,271.59,499.99,271.59,promotion,1,True,True,0.9,Extrema,Minas Gerais
+MLB3879897119,new,Tênis Masculino Moda Fitness Caminhada Leve Barato Promoção,buy_it_now,79.99,,79.99,standard,5000,True,True,1.0,Franca,São Paulo
+MLB3727891833,new,Tênis Masculino Mizuno Wave Falcon 4 Cor Preto/preto/branco/dourado - Adulto 43 Br,buy_it_now,268.85,379.9,268.85,promotion,1,True,True,,Juiz de Fora,Minas Gerais
+MLB5148966542,new,Tenis New Balance 1080 V14 Azul Amarelo Original,buy_it_now,1199.9,,1199.9,standard,1,True,True,1.0,Pindamonhangaba,São Paulo
+MLB5157628256,new,Tênis Masculino Creation Molas Corrida Lançamento Oferta,buy_it_now,127.96,399.9,127.96,promotion,5000,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3845185219,new,Tênis Feminino Asics Original Lançamento Academia Promoção,buy_it_now,99.99,333.33,99.99,promotion,50000,True,True,0.81,Nova Serrana,Minas Gerais
+MLB3261455871,new,Kit 2 Camisetas Manga Longa Masculina Proteção Uv Adulto,buy_it_now,49.99,,49.99,standard,250,True,True,1.0,,
+MLB3639818815,new,Par Munhequeira adidas Wristband Longa Tênis Padel Squash Cor Azul Tamanho Longa ( 13cm ),buy_it_now,119.9,,119.9,standard,100,True,True,,Ribeirão Pires,São Paulo
+MLB3659170773,new,Tênis Asics Gel Shinobi 2 Feminino Corrida,buy_it_now,340.1,479.9,340.1,promotion,1,True,True,1.0,São Paulo Centro,São Paulo
+MLB3872754463,new,2 Faixas Testeira De Cabelo Memphis Depay Esportes E Treinos,buy_it_now,26.92,35.9,26.92,promotion,1,True,True,1.0,Mogi das Cruzes,São Paulo
+MLB3887810955,new,Tênis Masculino Esportivo Leveza Perfeito Corrida E Treino,buy_it_now,87.21,94.8,87.21,promotion,1,True,True,1.0,Nova Serrana,Minas Gerais
+MLB3663275321,new,Combo Tênis Infantil Menina Feminino Escolar Casual Original,buy_it_now,125.4,177.96,125.4,promotion,500,True,True,0.8,Nova Serrana,Minas Gerais
+MLB4367416210,new,Tênis Olympikus Wellness 2 Color Chumbo - Adulto 42 Br,buy_it_now,199.2,249.0,199.2,promotion,1,True,True,,Cachoeira do Sul,Rio Grande do Sul
+MLB1671331052,new,Kit Tênis Masculino Caminhada 3 Pares Easy Confortável Combo,buy_it_now,179.32,229.9,179.32,promotion,500,True,True,1.0,,
+MLB1795495932,new,Camiseta Esporte Camisa Plus Size Academia Dry Fit M Ao G5,buy_it_now,62.9,,62.9,standard,100,True,True,1.0,Itu,São Paulo
+MLB2988644573,new,Tênis Sapatilha Masculina E Feminina Trilha Aquática Pesca,buy_it_now,53.89,,53.89,standard,5000,True,True,0.7,Franca,São Paulo
+MLB3590607157,new,Tênis Olympikus Casual Soma Color Grafite/vermelho - Adulto 43 Br,buy_it_now,169.99,199.99,169.99,promotion,1,True,True,,Londrina,Paraná
+MLB5091348512,new,Tênis Homem New Balance 574 Academia Corrida Treino Barato,buy_it_now,99.99,333.33,99.99,promotion,5000,True,True,0.9,Nova Serrana,Minas Gerais
+MLB3607003999,new,Tenis Masculino Joma Viper Running Corrida Profissional,buy_it_now,298.0,,298.0,standard,1,True,True,0.81,Umuarama,Paraná
