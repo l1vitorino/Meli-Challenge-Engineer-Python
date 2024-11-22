@@ -1,0 +1,57 @@
+2024-11-20 22:25:55,627 - ERROR - Erro ao buscar detalhes do item MLB3636111249: HTTPSConnectionPool(host='api.mercadolibre.com', port=443): Max retries exceeded with url: /items/MLB3636111249 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017823358230>, 'Connection to api.mercadolibre.com timed out. (connect timeout=None)'))
+2024-11-21 21:36:05,763 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:05,950 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:06,130 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:06,316 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:06,512 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:06,737 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:06,958 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:07,143 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:07,357 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:07,572 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:07,756 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:07,939 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:08,124 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:08,314 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:08,500 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:08,687 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:08,893 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,080 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,259 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,442 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,623 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,804 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:09,995 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:10,180 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:10,365 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:10,542 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:10,720 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:10,895 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:36:11,076 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:37:29,604 - ERROR - Erro na requisição: 403 - Forbidden - n0
+2024-11-21 21:37:29,782 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:29,964 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:30,152 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:30,342 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:30,529 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:30,710 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:30,901 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:31,075 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:31,252 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:31,580 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:31,736 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:32,084 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:37:32,262 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:38:50,136 - ERROR - Erro na requisição: 403 - Forbidden - n0
+2024-11-21 21:38:50,300 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:38:50,466 - ERROR - Erro na requisição: 403 - Forbidden - n2
+2024-11-21 21:38:50,624 - ERROR - Erro na requisição: 403 - Forbidden - n3
+2024-11-21 21:38:50,774 - ERROR - Erro na requisição: 403 - Forbidden - n4
+2024-11-21 21:40:40,631 - ERROR - Erro na requisição: 403 - Forbidden - n0
+2024-11-21 21:40:40,793 - ERROR - Erro na requisição: 403 - Forbidden - n1
+2024-11-21 21:40:40,970 - ERROR - Erro na requisição: 403 - Forbidden - n2
+2024-11-21 21:40:41,125 - ERROR - Erro na requisição: 403 - Forbidden - n3
+2024-11-21 21:40:41,297 - ERROR - Erro na requisição: 403 - Forbidden - n4
+2024-11-21 21:47:18,141 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:54:07,813 - ERROR - Erro na requisição: 403 - Forbidden
+2024-11-21 21:54:46,914 - ERROR - Erro na requisição: 403 - Forbidden
