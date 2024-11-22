@@ -61,3 +61,4 @@
 2024-11-21 22:49:26,226 - ERROR - Erro na requisição: 400 - Bad Request
 2024-11-21 22:54:29,395 - ERROR - Erro na requisição: 400 - Bad Request
 2024-11-21 22:55:00,532 - ERROR - Erro na requisição: 400 - Bad Request
+2024-11-21 23:19:49,622 - ERROR - Erro no processamento paralelo dos itens: unhashable type: 'list'

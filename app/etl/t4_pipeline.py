@@ -3,7 +3,7 @@ from t2_transform import MercadoLibreTransform
 from t3_load import MercadoLibreLoad
 
 #Extract
-Scraper = MercadoLibreScraper('MLB','Xiaomi,Iphone,Samsung', 150)
+Scraper = MercadoLibreScraper('MLB','Xiaomi,Iphone,Samsung', 900)
 dfItems = Scraper._Get_Items()
 dfItemsDetail = Scraper._Get_Items_Detail(dfItems)
 
