@@ -23,7 +23,7 @@ class MercadoLibreTransform:
             self.df_items['sale_amount'] = sales_normalize['amount']
             self.df_items['sale_type'] = sales_normalize['type']
             self.df_items = self.df_items[
-                ['id', 'condition', 'title', 'buying_mode', 'price', 
+                ['id','Brand', 'condition', 'title', 'buying_mode', 'price', 
                  'original_price', 'sale_amount', 'sale_type', 
                  'available_quantity', 'accepts_mercadopago', 'use_thumbnail_id']
             ]

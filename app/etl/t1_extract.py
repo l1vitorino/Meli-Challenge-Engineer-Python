@@ -36,6 +36,8 @@ class MercadoLibreScraper:
                     response = requests.get(f'{self.url}/sites/{self.site}/search?q={query_item}&offset={offset}&limit={api_limit}')
                     response.raise_for_status()  # Lança exceção para status HTTP >= 400                    
                     data = response.json().get("results", [])  # Carrega o JSON e garante que results existe
+                    for item in data:
+                        item["Brand"] = query_item
                     intermediate_results.extend(data)
                     offset += len(data)  # Incrementa o offset com base no número de resultados retornados
 
