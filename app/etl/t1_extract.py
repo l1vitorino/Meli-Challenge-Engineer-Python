@@ -17,20 +17,21 @@ class MercadoLibreScraper:
         self.url = 'https://api.mercadolibre.com'
         self.site = site
         self.query = query.split(',')
-        self.sample = sample / len(query.split(','))   # Quantidade de linhas que devem retornar, 0 retorna todas as linhas
+        self.sample = int(round(sample / len(query.split(',')),0))   # Quantidade de linhas que devem retornar, 0 retorna todas as linhas
 
     def _Get_Items(self):
         """
         Extrai itens da API do Mercado Livre.
         """
-        api_limit = 50
         result = []
 
         for i in self.query:
             print(f'Extraindo item {i} 🚀 com {self.sample} exemplos')
             offset = 0
+            api_limit = 50
+            resultado_intermediario = []
             results_rows = api_limit
-            while results_rows >= 1 and (offset < self.sample or self.sample == 0):
+            while results_rows >= 1 and offset < self.sample :
                 try:
                     response = requests.get(
                         f'{self.url}/sites/{self.site}/search?q={i}&offset={offset}&limit={api_limit}'
@@ -39,12 +40,10 @@ class MercadoLibreScraper:
                     # Verifica o código de status HTTP
                     if response.status_code == 200:
                         data = response.json().get("results", [])  # Carrega o JSON e garante que results existe
-                        result.extend(data)
+                        resultado_intermediario.extend(data)
 
                         results_rows = len(data)
                         offset += results_rows  # Incrementa o offset com base no número de resultados retornados
-
-                        print(f'Página extraída de {offset - results_rows} até {offset}')
                     else:
                         logging.error(f"Erro na requisição: {response.status_code} - {response.reason}")
                         print(f"Erro na requisição: {response.status_code} - {response.reason}")
@@ -57,6 +56,7 @@ class MercadoLibreScraper:
                     logging.error(f"Erro inesperado: {e}")
                     print(f"Erro inesperado: {e}")
                     sys.exit()
+            result.extend(resultado_intermediario[:self.sample])
 
         dfItems = pd.DataFrame(result)
         return dfItems

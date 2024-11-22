@@ -23,7 +23,7 @@ class MercadoLibreTransform:
     def _transform_detail_items(self): 
          self.dfItemsDetail = self.dfItemsDetail[['id', 'health', 'seller_address.search_location.city.name','seller_address.search_location.state.name']]
          self.dfItemsDetail = self.dfItemsDetail.rename(columns={"seller_address.search_location.city.name": "Seller_City", "seller_address.search_location.state.name": "Seller_state"})
-         return self.dfItemsDetail
+         return pd.DataFrame(self.dfItemsDetail)
     
     def executor(self,): 
         df1 = self._transform_items()
