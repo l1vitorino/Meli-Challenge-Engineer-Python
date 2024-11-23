@@ -63,3 +63,8 @@
 2024-11-21 22:55:00,532 - ERROR - Erro na requisição: 400 - Bad Request
 2024-11-21 23:19:49,622 - ERROR - Erro no processamento paralelo dos itens: unhashable type: 'list'
 2024-11-21 23:52:13,820 - ERROR - Erro na requisição: 403 Client Error: Forbidden for url: https://api.mercadolibre.com/sites/MLB/search?q=Xiaomi&offset=968&limit=50
+2024-11-22 19:51:51,060 - ERROR - Erro na transformação de detalhes dos itens: Can only merge Series or DataFrame objects, a <class 'list'> was passed
+2024-11-22 19:52:02,441 - ERROR - Erro na transformação de detalhes dos itens: Can only merge Series or DataFrame objects, a <class 'list'> was passed
+2024-11-22 19:54:41,466 - ERROR - Erro na transformação de detalhes dos itens: 'id'
+2024-11-22 19:56:17,863 - ERROR - Erro na transformação de detalhes dos itens: 'NoneType' object is not subscriptable
+2024-11-22 19:58:16,041 - ERROR - Erro ao processar item MLB3914055941: HTTPSConnectionPool(host='api.mercadolibre.com', port=443): Max retries exceeded with url: /items/MLB3914055941 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001EE85D56C00>, 'Connection to api.mercadolibre.com timed out. (connect timeout=None)'))

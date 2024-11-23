@@ -17,7 +17,7 @@ class MercadoLibreScraper:
         self.url = 'https://api.mercadolibre.com'
         self.site = site
         self.query = query.split(',')
-        self.sample = int(round(sample / len(query.split(',')), 0))  # Quantidade de linhas que devem retornar, 0 retorna todas as linhas
+        self.sample = sample 
 
     def _get_items(self) -> pd.DataFrame:
         """
@@ -84,7 +84,7 @@ class MercadoLibreScraper:
                         print(f"Erro ao processar item {item_id}: {e}")
                         sys.exit()
 
-            df_details = pd.json_normalize(result_items)
+            df_details = pd.json_normalize(result_items, max_level=0)
             return df_details
         except Exception as e:
             logging.error(f"{"Erro na requisição" if isinstance(e, requests.RequestException) else "Erro no processamento paralelo dos itens"}: {e}")

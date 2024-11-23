@@ -18,6 +18,7 @@ class MercadoLibreLoad:
         Salva o DataFrame em um arquivo CSV.
         """
         try:
+            print(self.df.head())
             self.df.to_csv('data/data.csv', index=False)
             print('Arquivo criado em: data/data.csv')
         except Exception as e:

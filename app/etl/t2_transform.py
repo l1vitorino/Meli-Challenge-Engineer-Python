@@ -37,16 +37,30 @@ class MercadoLibreTransform:
         Transforma os dados do dataframe de detalhes dos itens.
         """
         try:
+            BRAND_attributes = []
+            RAM_attributes = []
+            RELEASE_YEAR_attributes = []
+
+            for index, row in self.df_items_detail.iterrows():
+                for attributes in row['attributes']:
+                    BRAND_attributes.append( { "id": row['id'] ,  attributes['id']: attributes['values'][0]['name']} ) if attributes['id'] == 'BRAND' else '0'
+                    RAM_attributes.append( { "id": row['id'] ,  attributes['id']: attributes['values'][0]['name']} ) if attributes['id'] == 'RAM' else '0'
+                    RELEASE_YEAR_attributes.append( { "id": row['id'] ,  attributes['id']: attributes['values'][0]['name']} ) if attributes['id'] == 'RELEASE_YEAR' else '0'
+           
+            self.df_items_detail = pd.merge(self.df_items_detail, pd.DataFrame.from_dict(BRAND_attributes), on='id', how='left')
+            self.df_items_detail = pd.merge(self.df_items_detail, pd.DataFrame.from_dict(RAM_attributes), on='id', how='left')
+            self.df_items_detail = pd.merge(self.df_items_detail, pd.DataFrame.from_dict(RELEASE_YEAR_attributes), on='id', how='left')
+
+            seller_address_normalize = pd.json_normalize(self.df_items_detail["seller_address"])
+            
+            self.df_items_detail['Seller_City'] = seller_address_normalize['city.name']
+            self.df_items_detail['Seller_State'] = seller_address_normalize['state.name']
+            self.df_items_detail['Seller_country'] = seller_address_normalize['country.name']
+
             self.df_items_detail = self.df_items_detail[
-                ['id', 'health', 'seller_address.search_location.city.name', 
-                 'seller_address.search_location.state.name']
+                ['id', 'health', 'Seller_City', 
+                 'Seller_State','Seller_country','BRAND', 'RAM', 'RELEASE_YEAR']
             ]
-            self.df_items_detail = self.df_items_detail.rename(
-                columns={
-                    "seller_address.search_location.city.name": "Seller_City", 
-                    "seller_address.search_location.state.name": "Seller_State"
-                }
-            )
             return self.df_items_detail.drop_duplicates()
         except Exception as e:
             logging.error(f"Erro na transformação de detalhes dos itens: {e}")
