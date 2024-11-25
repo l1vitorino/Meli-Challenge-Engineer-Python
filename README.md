@@ -45,7 +45,7 @@ Devemos apenas passar as informações para a primeira etapa de extração
 2. query(str): A query são os itens que desejamos iterar e retornar, a separação deve ser feita por virgula ',';
 3. sample(int): Por fim temos o tamanho do sample que desejamos retornar por item dentro da query, algumas informações importantes são:
     1. A API publica do mercado livre tem uma limitação de 1000 resultados por pesquisa;
-    2. Extrações pesadas pode finalizar em timeout.
+    2. Extrações pesadas podem acarretar timeout.
 
 ### **1. Extração**
 A extração utiliza a classe `MercadoLibreScraper` para coletar dados da API do Mercado Livre. Os produtos e seus detalhes são extraídos com base em palavras-chave (ex.: marcas) fornecidas pelo usuário. A classe também suporta paralelismo para otimizar a coleta dos dados.
